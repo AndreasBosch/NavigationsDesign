@@ -367,3 +367,29 @@ nav ul{
     font-size: 5em;
     filter: drop-shadow(0px 0px 2px black)
 }
+.row img{
+    width: 100%
+}
+footer{
+    background-color: rgb(195, 170, 120);
+    width: 100%;
+    margin-top: 5%;
+    padding: 20px 0;
+    color: white
+}
+footer input{
+    width: 100%;
+    padding: 10px;
+    color: black
+}
+.no{
+    padding: 0!important
+}
+.no button{
+    border: 0;
+    background-color: rgb(80, 177, 206);
+    border: 1px solid rgb(57, 132, 153);
+    border-left: none;
+    padding: 10px;
+    margin-top: 86%
+}
